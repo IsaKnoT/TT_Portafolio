@@ -14,11 +14,12 @@ if hist_button: # al hacer clic en el botón
             
 # crear un histograma
     fig_1 = px.histogram(car_data, x="odometer")
+    
 # mostrar un gráfico Plotly interactivo
     st.plotly_chart(fig_1, use_container_width=True)
 
 # crear una casilla de verificación
-build_histogram = st.checkbox('Construir un gráfico de disperisión')
+build_histogram = st.checkbox('Construir un gráfico de dispersión')
 
 if build_histogram: # si la casilla de verificación está seleccionada
     st.write('Construir un gráfico de disperisión para las columnas odómetro y precio')
