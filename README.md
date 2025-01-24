@@ -1,2 +1,2 @@
 # TT_Portafolio
-Portafolio de Proyectos realizados durante el bootcam como Data Scientist en TripleTen Latam.
+Proyecto del sprint 7 que incluye el desarrollo de una aplicación web sobre vehículos a la venta y su implementación en un servicio en la nube de acceso al público.
