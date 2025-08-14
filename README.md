@@ -1,7 +1,7 @@
-# 🚗 **AutoData: Explorando Anuncios de Coches** 🏎️
+# 🚗 **AutoData: Explorando Anuncios de Vehículos** 🏎️
 
 ## 📋 Descripción
-En el mercado de venta de coches, la gran cantidad de anuncios en línea dificulta identificar patrones sobre precios, marcas y características que influyen en la venta rápida de un vehículo. Los datos no siempre están limpios o completos, lo que hace que el análisis manual sea ineficiente.
+En el mercado de venta de vehículos, la gran cantidad de anuncios en línea dificulta identificar patrones sobre precios, marcas y características que influyen en la venta rápida de un vehículo. Los datos no siempre están limpios o completos, lo que hace que el análisis manual sea ineficiente.
 
 ## 🎯 Objetivo
 Practicar tareas clave de ingeniería de software aplicadas a datos reales, incluyendo la creación y gestión de entornos virtuales de Python, limpieza y análisis básico de datos, y desarrollo de una pequeña aplicación web que permita explorar anuncios de coches de manera interactiva.
